@@ -1,5 +1,3 @@
-### About Youngjoon Park
-
 <h1 align="center">Hi 👋, I'm Youngjoon Park</h1>
 <h3 align="center">A passionate full stack web and mobile developer</h3>
 
