@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Youngjoon Park. 👋</h1>
-<h3>A Full Stack Software Engineer Turning Ideas into Reality</h3>
+<h3>A passionate Full Stack Software Engineer crafting digital dreams into reality - creating innovative solutions across web and mobile platforms by weaving frontend elegance with backend robustness</h3>
 
 ## SKILLS
 
