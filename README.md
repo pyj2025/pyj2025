@@ -1,5 +1,18 @@
-<h1 align="center">Hi, I'm Youngjoon Park. 👋</h1>
-<h3>A passionate Full Stack Software Engineer crafting digital dreams into reality - creating innovative solutions across web and mobile platforms by weaving frontend elegance with backend robustness</h3>
+# Youngjoon Park
+
+**Full Stack Software Engineer** • Vancouver, BC, Canada 🇨🇦
+
+> *Crafting tomorrow's digital landscape, one line of code at a time*
+
+## 👋 About Me
+
+Passionate full-stack developer with expertise in modern web technologies and mobile development. I love crafting scalable applications that solve real-world problems and create meaningful user experiences.
+
+- 🌱 Growing ideas from seed to scalable solutions
+- ☕ Brewing innovation with a perfect blend of coffee and code 
+- 🎨 Painting the digital canvas with pixels of possibility
+- 🔧 Building bridges between imagination and implementation
+- 🚀 Launching dreams into the orbit of reality
 
 ## SKILLS
 
