@@ -6,7 +6,6 @@
 
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:pyj2025@gmail.com)
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/devjoon/)
-[![Resume](https://img.shields.io/static/v1?message=Resume&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge)](https://drive.google.com/file/d/162Jm82XxNxdi7b9ccl6cZE5iKVc4xneF/view?usp=drive_link) 
 [![Portfolio](https://img.shields.io/static/v1?message=Portfolio&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://pyj2025.github.io/portfolio/)
 
 ## About Me
