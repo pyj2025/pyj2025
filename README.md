@@ -4,7 +4,12 @@
 
 > *Crafting tomorrow's digital landscape, one line of code at a time*
 
-## 👋 About Me
+[![Gmail](https://img.shields.io/static/v1?message=Gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:pyj2025@gmail.com)
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/devjoon/)
+[![Resume](https://img.shields.io/static/v1?message=Resume&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge)](https://drive.google.com/file/d/162Jm82XxNxdi7b9ccl6cZE5iKVc4xneF/view?usp=drive_link) 
+[![Portfolio](https://img.shields.io/static/v1?message=Portfolio&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://pyj2025.github.io/portfolio/)
+
+## About Me
 
 Passionate full-stack developer with expertise in modern web technologies and mobile development. I love crafting scalable applications that solve real-world problems and create meaningful user experiences.
 
@@ -25,3 +30,5 @@ Passionate full-stack developer with expertise in modern web technologies and mo
 | **Testing**               | <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> |
                                      
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pyj2025&show_icons=true&locale=en&layout=compact" alt="pyj2025" /></p>
+
+
